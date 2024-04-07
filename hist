@@ -1,0 +1,38 @@
+    1  Apr 03 22:04:52 pwd
+    2  Apr 03 22:05:07 ls -a
+    3  Apr 03 22:06:44 cat .ssh
+    4  Apr 03 22:06:58 sd ssh
+    5  Apr 03 22:07:07 cd .ssh
+    6  Apr 03 22:07:28 ls -a
+    7  Apr 03 22:08:31 cat authorized_keys
+    8  Apr 03 22:08:48 cd ..
+    9  Apr 03 22:09:30 mkdir papka
+   10  Apr 03 22:09:40 cd papaka
+   11  Apr 03 22:09:54 cd papka
+   12  Apr 03 22:13:43 scp C:\Users\Professional\Desktop\папка dkirpicheva@arybin93:~/papka
+   13  Apr 03 22:15:50 scp C:\Users/Profe/sional\Deskt/p\па�/ка dkirpicheva@arybin93:~/papka
+   14  Apr 03 22:19:30 scp C:/Users/Professional/Desktop/папка dkirpicheva@188.120.225.17:/papka/
+   15  Apr 03 22:20:21 scp C:/U -r ers/Professional/Desktop/папка dkirpicheva@188.120.225.17:/papka/
+   16  Apr 03 22:24:05 scp C:/Us-r ers/Professional/Desktop/папка dkirpicheva@188.120.225.17:/papka/
+   17  Apr 03 22:25:01 scp C:/Users/Professional/Desktop/папка dkirpicheva@188.120.225.17:/papka/
+   18  Apr 03 22:25:18 ls -a
+   19  Apr 03 22:25:51 scp C:/Users/Professional/Desktop/папка/* dkirpicheva@188.120.225.17:/papka/
+   20  Apr 03 22:27:32 exit
+   21  Apr 03 22:40:08 cd papka
+   22  Apr 03 22:40:20 ls
+   23  Apr 03 22:41:09 mkdir papka2
+   24  Apr 03 22:44:10 cat run_http_server.sh
+   25  Apr 03 22:45:38 chmod -x  run_http_server.sh
+   26  Apr 03 22:45:47 ls
+   27  Apr 03 23:10:59 bash  run_http_server.sh
+   28  Apr 07 20:15:39 ls
+   29  Apr 07 20:15:49 cd papka
+   30  Apr 07 20:15:54 ls
+   31  Apr 07 20:16:12 bash ru
+   32  Apr 07 20:16:43 bash run_http_server.sh 
+   33  Apr 07 20:33:13 ps -la
+   34  Apr 07 20:34:06 kill 60941
+   35  Apr 07 22:19:13 curl 188.120.225.17:9000/kdkln
+   36  Apr 07 22:19:54 cat log
+   37  Apr 07 22:24:41 touch hist
+   38  Apr 07 22:25:10 history>hist
